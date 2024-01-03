@@ -28,12 +28,12 @@ If your PR is not shown at the original repo or it is submitted after the deadli
 1. Write three basic Linux commands that you learned in class that you believe are the most useful and provide a brief description in your own words. 
 
 **Answer:** 
-* *TYPE_YOUR_ANSWER_HERE*
-* *TYPE_YOUR_ANSWER_HERE*
-* *TYPE_YOUR_ANSWER_HERE*
+* *ls because it can see hidden files by add -a option*
+* *cd because it can change directory*
+* *mkdir because it can make new directory to store files*
 
 2. After one and a half years as an ISNE student, what recommendations would you make to prospective ISNE students? (Your answer must be at least 50 words long)
 
 **Answer:** 
 
-*TYPE_YOUR_ANSWER_HERE*
+*I recommend perspective ISNE students focus on Calculus 1 (it not hard but professor will say you learned it from high school) and after you pass Calculus 1. other courses you can easily pass and also recommmend to focus on Data Structure and Algorithms because it will be very useful for your job in future*
