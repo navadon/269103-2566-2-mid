@@ -28,12 +28,12 @@ If your PR is not shown at the original repo or it is submitted after the deadli
 1. Write three basic Linux commands that you learned in class that you believe are the most useful and provide a brief description in your own words. 
 
 **Answer:** 
-* *TYPE_YOUR_ANSWER_HERE*
-* *TYPE_YOUR_ANSWER_HERE*
-* *TYPE_YOUR_ANSWER_HERE*
+* *1). cd* : Because when you want to go in directory, you must use this command to open that.
+* *2). ls* : If you want to know what is in this directory, it's helpful to make you know inside of directory.
+* *3). cat* : If you want to open file, you must use this command.
 
 2. After one and a half years as an ISNE student, what recommendations would you make to prospective ISNE students? (Your answer must be at least 50 words long)
 
 **Answer:** 
 
-*TYPE_YOUR_ANSWER_HERE*
+*A thing that I want to tell them is always study hard. I want them to get many knowledges from ISNE Program and have fun in the university life. Having do a new things that the have not done it before. And please, be aware of Calculus 1 because I so very hard *
