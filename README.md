@@ -29,11 +29,20 @@ If your PR is not shown at the original repo or it is submitted after the deadli
 
 **Answer:** 
 * *TYPE_YOUR_ANSWER_HERE*
+ls -l, Since I can check all files and permission in the current directory which is useful for future perpouses
+
 * *TYPE_YOUR_ANSWER_HERE*
+nano, Since it can open a Text Editor that is with in the linux command, which personally I think its cool and useful in that we have more control over the text that using echo >
+
 * *TYPE_YOUR_ANSWER_HERE*
+cd, Since in the future we would be working with lots of files and directories, this cd allows you to jump between different directories, which isreally useful
+
 
 2. After one and a half years as an ISNE student, what recommendations would you make to prospective ISNE students? (Your answer must be at least 50 words long)
 
 **Answer:** 
 
 *TYPE_YOUR_ANSWER_HERE*
+I would recommend the new ISNE students to make sure to pay attention to Cal 1. Since Cal 1 is the thoughest course to pass. And to not be sad if in cal 1 you didnt get a good grade, since the prof. 
+make the grades really hard to deal with. Also to dont rely much on ChatGPT since right now we are in university, and the goal is to learn and polish our skills, but if you just use ChatGPT to do the work 
+for you, you wont be using the opportunity to the fullest! 
