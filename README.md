@@ -28,12 +28,14 @@ If your PR is not shown at the original repo or it is submitted after the deadli
 1. Write three basic Linux commands that you learned in class that you believe are the most useful and provide a brief description in your own words. 
 
 **Answer:** 
-* *TYPE_YOUR_ANSWER_HERE*
-* *TYPE_YOUR_ANSWER_HERE*
-* *TYPE_YOUR_ANSWER_HERE*
+* cat [file] : to view what's inside the file (I like this one because this command has a cute name btw LOL)
+* mkdir : creating new directory
+* chmod : to manage and change the permission
 
 2. After one and a half years as an ISNE student, what recommendations would you make to prospective ISNE students? (Your answer must be at least 50 words long)
 
 **Answer:** 
 
-*TYPE_YOUR_ANSWER_HERE*
+I want to tell them to focus on every course, especially Calculus 1. Everyone said that is the hardest course in engineering but the fact is not too hard if you have great basic.
+However, if you are not, focus it because other first year-first semester courses are not too hard. So you can fully focus on this course. Be patient and prepare with very morning schudule.
+Don't be too lazy. Always review the lesson.
