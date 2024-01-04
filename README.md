@@ -28,12 +28,12 @@ If your PR is not shown at the original repo or it is submitted after the deadli
 1. Write three basic Linux commands that you learned in class that you believe are the most useful and provide a brief description in your own words. 
 
 **Answer:** 
-* *TYPE_YOUR_ANSWER_HERE*
-* *TYPE_YOUR_ANSWER_HERE*
-* *TYPE_YOUR_ANSWER_HERE*
+* ls -l --color ; This one is very useful for listing every files in detail and they are also colored
+* grep ; This one is for grabbing the same pattern in each files.
+* rm -r *; Force delete everything, this may bring me back peace.
 
 2. After one and a half years as an ISNE student, what recommendations would you make to prospective ISNE students? (Your answer must be at least 50 words long)
 
 **Answer:** 
 
-*TYPE_YOUR_ANSWER_HERE*
+It was a long time since I have attended Information Systems and Network Engineering; ISNE. I could have never thought that I would be sitting here, doing your homework in just a few minutes. At first, I think I am not capable of being a programmer, and attending this course is a wrong choice. However, after I learned for a semester, my grades are beyond my expectations. I am really good at communication, and I was also chosen to be the leader (President) of this year ISNE students as a representative. Now, for me, ISNE is not really a major nor studying field, it is a family.
