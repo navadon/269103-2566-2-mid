@@ -28,12 +28,14 @@ If your PR is not shown at the original repo or it is submitted after the deadli
 1. Write three basic Linux commands that you learned in class that you believe are the most useful and provide a brief description in your own words. 
 
 **Answer:** 
-* *TYPE_YOUR_ANSWER_HERE*
-* *TYPE_YOUR_ANSWER_HERE*
-* *TYPE_YOUR_ANSWER_HERE*
+* cd : is for changing directories can use for changing to desire directory, floder with just one click.
+
+ls :  to show the list of the all contents include in directory as well as any requested assosiated information and it is useful for a quick peek at looking what is inside the folder.
+
+diff : comparing line by line of  two files and it is pretty useful without needing to put much effort and can spot the difference between two files.
 
 2. After one and a half years as an ISNE student, what recommendations would you make to prospective ISNE students? (Your answer must be at least 50 words long)
 
 **Answer:** 
 
-*TYPE_YOUR_ANSWER_HERE*
+* It is no secret that ISNE is a intensely supportive group; working hard and embracing challenges is part of who we are. The foundation is firmly established in this course, which emphasizes problem-solving, creativity, and pushing limits in addition to syntax. Additionally, it is critical that we support one another. In this ISNE journey, a form-coding squad would be quite beneficial. 
