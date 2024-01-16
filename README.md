@@ -28,12 +28,14 @@ If your PR is not shown at the original repo or it is submitted after the deadli
 1. Write three basic Linux commands that you learned in class that you believe are the most useful and provide a brief description in your own words. 
 
 **Answer:** 
-* *TYPE_YOUR_ANSWER_HERE*
-* *TYPE_YOUR_ANSWER_HERE*
-* *TYPE_YOUR_ANSWER_HERE*
+* *pwd : it can check where are we now*
+* *cd : easy to reach any files in our computer*
+* *mkdir : make new floder for our work*
 
 2. After one and a half years as an ISNE student, what recommendations would you make to prospective ISNE students? (Your answer must be at least 50 words long)
 
 **Answer:** 
 
-*TYPE_YOUR_ANSWER_HERE*
+*    This major will teach you in a friendly atmosphere. You will feel comfortable going into class and asking questions about things you don't understand.
+The atmosphere in the classroom is very fun and comfortable. Don't be afraid to come study even if you don't have any basic knowledge.
+    This major will teach you from the beginning of programming until how to create a funny game (?). If you really like this aspect. or are interested in studying this field, then come in. Everyone is ready to welcome you.*
