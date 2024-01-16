@@ -28,12 +28,11 @@ If your PR is not shown at the original repo or it is submitted after the deadli
 1. Write three basic Linux commands that you learned in class that you believe are the most useful and provide a brief description in your own words. 
 
 **Answer:** 
-* *TYPE_YOUR_ANSWER_HERE*
-* *TYPE_YOUR_ANSWER_HERE*
-* *TYPE_YOUR_ANSWER_HERE*
-
+* *IS List command is used to list the files and directories in the current working directory.*
+* *cd (Change Directory): The cd command is used to change the current working directory.*
+* *cp (Copy):The cp command is used to copy files or directories from one location to another.*
 2. After one and a half years as an ISNE student, what recommendations would you make to prospective ISNE students? (Your answer must be at least 50 words long)
 
-**Answer:** 
+**Answer:Run away Run awayRun awayRun awayRun awayRun awayRun awayRun awayRun awayRun awayRun awayRun awayRun awayRun away** 
 
 *TYPE_YOUR_ANSWER_HERE*
